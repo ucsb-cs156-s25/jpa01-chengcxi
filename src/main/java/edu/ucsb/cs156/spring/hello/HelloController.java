@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class HelloController {
 
     public static String homePageContent = """
-            <h1>Hello, World</h1>
+            <h1>Hello, World!</h1>
             <ul>
                 <li><a href="/es">Español</a></li>
                 <li><a href="/fr">Français</a></li>
